@@ -8,7 +8,7 @@
     <description>
       A podcast from Luke Lechel about technology, productivity, and fitness.
     </description>
-    <itunes:type>serial</itunes:type> <!-- Is this right for my show? -->
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Luke Lechel</itunes:name>
       <itunes:email>mountainscape@icloud.com</itunes:email> <!-- Do I need to disclose this? -->
@@ -16,8 +16,8 @@
     <itunes:image
       href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
     />
-    <itunes:category text="Sports"> <!-- Set my category -->
-      <itunes:category text="Wilderness"/> <!-- Set my category -->
+    <itunes:category text="Technology">
+      <itunes:category text="Fitness"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit> <!-- This is where I left off 🏁 -->
     <item>
