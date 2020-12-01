@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hiking Treks</title>
-    <link>https://www.apple.com/itunes/podcasts/</link>
+    <title>The Bonus Show</title>
+    <link>https://www.apple.com/itunes/podcasts/</link> <!-- What's this? -->
     <language>en-us</language>
-    <copyright>&#169; 2020 John Appleseed</copyright>
-    <itunes:author>The Sunset Explorers</itunes:author>
+    <itunes:author>Luke Lechel</itunes:author>
     <description>
-      Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the
-      show for you. We review hikes and excursions, review outdoor gear and interview
-      a variety of naturalists and adventurers. Look for new episodes each week.
+      A podcast from Luke Lechel about technology, productivity, and fitness.
     </description>
-    <itunes:type>serial</itunes:type>
+    <itunes:type>serial</itunes:type> <!-- Is this right for my show? -->
     <itunes:owner>
-      <itunes:name>Sunset Explorers</itunes:name>
-      <itunes:email>mountainscape@icloud.com</itunes:email>
+      <itunes:name>Luke Lechel</itunes:name>
+      <itunes:email>mountainscape@icloud.com</itunes:email> <!-- Do I need to disclose this? -->
     </itunes:owner>
     <itunes:image
-      href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
+      href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
     />
-    <itunes:category text="Sports">
-      <itunes:category text="Wilderness"/>
+    <itunes:category text="Sports"> <!-- Set my category -->
+      <itunes:category text="Wilderness"/> <!-- Set my category -->
     </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit> <!-- This is where I left off 🏁 -->
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:title>Hiking Treks Trailer</itunes:title>
