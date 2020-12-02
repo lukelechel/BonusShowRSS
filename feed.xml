@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Bonus Show</title>
-    <link>https://www.apple.com/itunes/podcasts/</link> <!-- What's this? -->
+    <link>https://thebonusshow.com</link>
     <language>en-us</language>
     <itunes:author>Luke Lechel</itunes:author>
     <description>
@@ -11,7 +11,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Luke Lechel</itunes:name>
-      <itunes:email>mountainscape@icloud.com</itunes:email> <!-- Do I need to disclose this? -->
+      <itunes:email>thebonusshow@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image
       href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
@@ -20,25 +20,7 @@
       <itunes:category text="Fitness"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit> <!-- This is where I left off 🏁 -->
-    <item>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:title>Hiking Treks Trailer</itunes:title>
-      <description>
-          <![CDATA[The Sunset Explorers share tips, techniques and recommendations for
-          great hikes and adventures around the United States. Listen on 
-          <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>.]]>
-        </content:encoded>
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190418</guid>
-      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
-      <itunes:duration>1079</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
@@ -57,6 +39,7 @@
       <itunes:duration>1024</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
@@ -79,6 +62,7 @@
       <itunes:duration>3627</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -100,6 +84,7 @@
       <itunes:duration>2434</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -118,6 +103,7 @@
       <itunes:duration>13:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
@@ -136,6 +122,7 @@
       <itunes:duration>929</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
@@ -154,6 +141,7 @@
       <itunes:duration>1440</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -173,6 +161,7 @@
       <itunes:duration>839</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
