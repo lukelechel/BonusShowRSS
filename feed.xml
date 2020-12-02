@@ -20,6 +20,32 @@
       <itunes:category text="Fitness"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit> <!-- This is where I left off 🏁 -->
+
+    <!-- MY TEST vvv -->
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>001: The Future of Fitness, with Misael Contreras</title>
+      <link>https://thebonusshow.com/ep/001</link> <!-- Corresponding episode page -->
+      <itunes:subtitle>
+        Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
+      </itunes:subtitle>
+      <description>
+        Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms. Show Notes: Activity Stats on the App Store (https://apps.apple.com/us/app/activity-stats/id1511179040) Follow the show: * TheBonusShow.com (https://thebonusshow.com) * 📸 https://instagram.com/thebonusshow * 🗣 https://twitter.com/thebonusshow 
+      </description>
+      <enclosure
+        length="14017021" 
+        type="audio/mpeg" 
+        url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-001.mp3"
+      /> <!-- ^ Length is file size in bits; URL is MP3 endpoint; I thiiiiink all MP3s should be type="audio/mpeg"... Reference documentation: https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
+      <guid isPermaLink="false">4b1561f0-01c3-4f9c-bb66-f2647db78aa5</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
+      <pubDate>Thu, 18 Jun 2020 17:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
+      <itunes:duration>28:11</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- MY TEST ^^^ -->
     
     <item>
       <itunes:episodeType>full</itunes:episodeType>
