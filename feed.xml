@@ -1,93 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>The Bonus Show</title>
-    <link>https://thebonusshow.com</link>
-    <language>en-us</language>
-    <copyright>&#169; 2020 Luke Lechel</copyright>
-    <itunes:author>Luke Lechel</itunes:author>
-    <description>A podcast from Luke Lechel about technology, productivity, and fitness.</description>
-    <itunes:type>episodic</itunes:type>
-    <itunes:subtitle>Luke Lechel</itunes:subtitle>
-    <itunes:owner>
-      <itunes:name>Luke Lechel</itunes:name>
-      <itunes:email>thebonusshow@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image
-      href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
-    />
-    <itunes:category text="Technology"></itunes:category>
-    <itunes:category text="Health &amp; Fitness">
-        <itunes:category text="Fitness" />
-    </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
+    <channel>
+        <title>The Bonus Show</title>
+        <link>https://thebonusshow.com</link>
+        <language>en-us</language>
+        <copyright>&#169; 2020 Luke Lechel</copyright>
+        <itunes:author>Luke Lechel</itunes:author>
+        <description>A podcast from Luke Lechel about technology, productivity, and fitness.</description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:subtitle>Luke Lechel</itunes:subtitle>
+        <itunes:owner>
+        <itunes:name>Luke Lechel</itunes:name>
+        <itunes:email>thebonusshow@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image
+            href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
+        />
+        <itunes:category text="Technology"></itunes:category>
+        <itunes:category text="Health &amp; Fitness">
+            <itunes:category text="Fitness" />
+        </itunes:category>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:new-feed-url>
+            https://thebonusshow.com/feed.xml
+        </itunes:new-feed-url>
 
     <!-- 👉 New episode goes here -->
 
     <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>003</itunes:episode>
-      <title>The Right Bike For the Job, with Rick Schroeder</title>
-      <link>https://thebonusshow.com/ep/003</link> <!-- Corresponding episode page -->
-      <itunes:subtitle>
-        Rick Schroeder joins the show to talk bicycle gear and cycling culture.
-      </itunes:subtitle>
-      <description>
-        Rick Schroeder joins the show to talk bicycle gear and cycling culture. Show Notes: WhatCulture Gaming Podcast (https://podcasts.apple.com/gb/podcast/whatculture-gaming/id1433583146) The Test Drivers Podcast (https://www.relay.fm/testdrivers) ARM acquisition by Nvidia - The Verge (https://www.theverge.com/2020/9/13/21435507/nvidia-acquiring-arm-40-billion-chips-ai-deal) United States presidential state car - Wikipedia (https://en.wikipedia.org/wiki/Presidential_state_car_(United_States)) Wahoo Blue SC Speed and Cadence Cycling Sensor (https://www.wahoofitness.com/devices/bike-sensors/wahoo-blue-sc-speed-and-cadence-sensor) Under Armour Heart Rate Monitor Chest Strap (https://www.amazon.com/Under-Armour-Heart-Rate-Monitor/dp/B07PDNH6Q3) Nike+iPod Sports Kit (https://www.apple.com/in/ipod/nike/) Wahoo Fitness (https://www.wahoofitness.com/) Wahoo Fitness on the App Store (https://apps.apple.com/us/app/wahoo-fitness/id391599899) Apple Fitness+ (https://www.apple.com/apple-fitness-plus/) Follow the show: * TheBonusShow.com (https://thebonusshow.com) * 📸 https://instagram.com/thebonusshow * 🗣 https://twitter.com/thebonusshow
-      </description>
-      <enclosure
-        length="22047883" 
-        type="audio/mpeg" 
-        url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-003.mp3"
-      /> <!-- ^ Length is file size in bits; URL is MP3 endpoint; I thiiiiink all MP3s should be type="audio/mpeg"... Reference documentation: https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
-      <guid isPermaLink="false">c0d79a0d-30a4-4b9c-98c5-0a1201b32075</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
-      <pubDate>Sun, 18 Oct 2020 21:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
-      <itunes:duration>44:52</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
-      <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>003</itunes:episode>
+        <title>The Right Bike For the Job, with Rick Schroeder</title>
+        <description>
+            Rick Schroeder joins the show to talk bicycle gear and cycling culture.
+        </description>
+        <link>https://thebonusshow.com/ep/003</link>
+        <content:encoded>
+            <![CDATA[ <p>Rick Schroeder joins the show to talk bicycle gear and cycling culture.</p> <p><strong>Show Notes:</strong></p> <p><a href="https://podcasts.apple.com/gb/podcast/whatculture-gaming/id1433583146" rel="nofollow">WhatCulture Gaming Podcast</a></p> <p><a href="https://www.relay.fm/testdrivers" rel="nofollow">The Test Drivers Podcast</a></p> <p><a href="https://www.theverge.com/2020/9/13/21435507/nvidia-acquiring-arm-40-billion-chips-ai-deal" rel="nofollow">ARM acquisition by Nvidia - The Verge </a></p> <p><a href="https://en.wikipedia.org/wiki/Presidential_state_car_(United_States)" rel="nofollow">United States presidential state car - Wikipedia</a></p> <p><a href="https://www.wahoofitness.com/devices/bike-sensors/wahoo-blue-sc-speed-and-cadence-sensor" rel="nofollow">Wahoo Blue SC Speed and Cadence Cycling Sensor</a></p> <p><a href="https://www.amazon.com/Under-Armour-Heart-Rate-Monitor/dp/B07PDNH6Q3" rel="nofollow">Under Armour Heart Rate Monitor Chest Strap</a></p> <p><a href="https://www.apple.com/in/ipod/nike/" rel="nofollow">Nike+iPod Sports Kit</a></p> <p><a href="https://www.wahoofitness.com/" rel="nofollow">Wahoo Fitness</a></p> <p><a href="https://apps.apple.com/us/app/wahoo-fitness/id391599899" rel="nofollow">Wahoo Fitness on the App Store</a></p> <p><a href="https://www.apple.com/apple-fitness-plus/" rel="nofollow">Apple Fitness+</a></p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">TheBonusShow.com</a></p> ]]>
+        </content:encoded>
+        <enclosure
+            length="22047883" 
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-003.mp3"
+        />
+        <guid isPermaLink="false">c0d79a0d-30a4-4b9c-98c5-0a1201b32075</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
+        <pubDate>Sun, 18 Oct 2020 21:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
+        <itunes:duration>44:52</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+        <itunes:explicit>false</itunes:explicit>
     </item>
 
     <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>002</itunes:episode>
-      <title>Board of New Words, with Asia Yisrael and Ciara Pulliam</title>
-      <link>https://thebonusshow.com/ep/002</link> <!-- Corresponding episode page -->
-      <itunes:subtitle>
-        Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.
-      </itunes:subtitle>
-      <description>
-        Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words. Follow the show: * TheBonusShow.com (https://thebonusshow.com) * 📸 https://instagram.com/thebonusshow * 🗣 https://twitter.com/thebonusshow
-      </description>
-      <enclosure
-        length="8343669" 
-        type="audio/mpeg" 
-        url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-002.mp3"
-      /> <!-- ^ Length is file size in bits; URL is MP3 endpoint; I thiiiiink all MP3s should be type="audio/mpeg"... Reference documentation: https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
-      <guid isPermaLink="false">184de35a-b04c-4cf2-8726-0b99ed5ccf42</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
-      <pubDate>Mon, 07 Sep 2020 08:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
-      <itunes:duration>16:20</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
-      <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>002</itunes:episode>
+        <title>Board of New Words, with Asia Yisrael and Ciara Pulliam</title>
+        <description>
+            Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.
+        </description>
+        <link>https://thebonusshow.com/ep/002</link>
+        <content:encoded>
+            <![CDATA[ <p>Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.</p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">TheBonusShow.com</a></p> ]]>
+        </content:encoded>
+        <enclosure
+            length="8343669" 
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-002.mp3"
+        />
+        <guid isPermaLink="false">184de35a-b04c-4cf2-8726-0b99ed5ccf42</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
+        <pubDate>Mon, 07 Sep 2020 08:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
+        <itunes:duration>16:20</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+        <itunes:explicit>false</itunes:explicit>
     </item>
 
     <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>001</itunes:episode>
-      <title>The Future of Fitness, with Misael Contreras</title>
-      <link>https://thebonusshow.com/ep/001</link> <!-- Corresponding episode page -->
-      <itunes:subtitle>
-        Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
-      </itunes:subtitle>
-      <description>
-        Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms. Show Notes: Activity Stats on the App Store (https://apps.apple.com/us/app/activity-stats/id1511179040) Follow the show: * TheBonusShow.com (https://thebonusshow.com) * 📸 https://instagram.com/thebonusshow * 🗣 https://twitter.com/thebonusshow 
-      </description>
-      <enclosure
-        length="14017021" 
-        type="audio/mpeg" 
-        url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-001.mp3"
-      /> <!-- ^ Length is file size in bits; URL is MP3 endpoint; I thiiiiink all MP3s should be type="audio/mpeg"... Reference documentation: https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
-      <guid isPermaLink="false">4b1561f0-01c3-4f9c-bb66-f2647db78aa5</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
-      <pubDate>Thu, 18 Jun 2020 17:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
-      <itunes:duration>28:11</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
-      <itunes:explicit>false</itunes:explicit>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>001</itunes:episode>
+        <title>The Future of Fitness, with Misael Contreras</title>
+        <description>
+            Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
+        </description>
+        <link>https://thebonusshow.com/ep/001</link>
+        <content:encoded>
+            <![CDATA[ <p>Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.</p> <p><strong>Show Notes:</strong></p> <p><a href="https://apps.apple.com/us/app/activity-stats/id1511179040" rel="nofollow">Activity Stats on the App Store</a></p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">TheBonusShow.com</a></p> ]]>
+        </content:encoded>
+        <enclosure
+            length="14017021" 
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-001.mp3"
+        />
+        <guid isPermaLink="false">4b1561f0-01c3-4f9c-bb66-f2647db78aa5</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
+        <pubDate>Thu, 18 Jun 2020 17:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
+        <itunes:duration>28:11</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+        <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
