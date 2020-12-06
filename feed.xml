@@ -10,8 +10,8 @@
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle>Luke Lechel</itunes:subtitle>
         <itunes:owner>
-        <itunes:name>Luke Lechel</itunes:name>
-        <itunes:email>thebonusshow@gmail.com</itunes:email>
+            <itunes:name>Luke Lechel</itunes:name>
+            <itunes:email>thebonusshow@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image
             href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
@@ -21,9 +21,6 @@
             <itunes:category text="Fitness" />
         </itunes:category>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:new-feed-url>
-            https://thebonusshow.com/feed.xml
-        </itunes:new-feed-url>
 
     <!-- 👉 New episode goes here -->
 
