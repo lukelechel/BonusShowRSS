@@ -7,6 +7,7 @@
         <copyright>&#169; 2020 Luke Lechel</copyright>
         <itunes:author>Luke Lechel</itunes:author>
         <description>A podcast from Luke Lechel about technology, productivity, and fitness.</description>
+        <itunes:summary>A podcast from Luke Lechel about technology, productivity, and fitness.</itunes:summary>
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle>Luke Lechel</itunes:subtitle>
         <itunes:owner>
@@ -31,6 +32,9 @@
         <description>
             Rick Schroeder joins the show to talk bicycle gear and cycling culture.
         </description>
+        <itunes:summary>
+            Rick Schroeder joins the show to talk bicycle gear and cycling culture.
+        </itunes:summary>
         <link>https://thebonusshow.com/ep/003</link>
         <content:encoded>
             <![CDATA[ <p>Rick Schroeder joins the show to talk bicycle gear and cycling culture.</p> <p><strong>Show Notes:</strong></p> <p><a href="https://podcasts.apple.com/gb/podcast/whatculture-gaming/id1433583146" rel="nofollow">WhatCulture Gaming Podcast</a></p> <p><a href="https://www.relay.fm/testdrivers" rel="nofollow">The Test Drivers Podcast</a></p> <p><a href="https://www.theverge.com/2020/9/13/21435507/nvidia-acquiring-arm-40-billion-chips-ai-deal" rel="nofollow">ARM acquisition by Nvidia - The Verge </a></p> <p><a href="https://en.wikipedia.org/wiki/Presidential_state_car_(United_States)" rel="nofollow">United States presidential state car - Wikipedia</a></p> <p><a href="https://www.wahoofitness.com/devices/bike-sensors/wahoo-blue-sc-speed-and-cadence-sensor" rel="nofollow">Wahoo Blue SC Speed and Cadence Cycling Sensor</a></p> <p><a href="https://www.amazon.com/Under-Armour-Heart-Rate-Monitor/dp/B07PDNH6Q3" rel="nofollow">Under Armour Heart Rate Monitor Chest Strap</a></p> <p><a href="https://www.apple.com/in/ipod/nike/" rel="nofollow">Nike+iPod Sports Kit</a></p> <p><a href="https://www.wahoofitness.com/" rel="nofollow">Wahoo Fitness</a></p> <p><a href="https://apps.apple.com/us/app/wahoo-fitness/id391599899" rel="nofollow">Wahoo Fitness on the App Store</a></p> <p><a href="https://www.apple.com/apple-fitness-plus/" rel="nofollow">Apple Fitness+</a></p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">TheBonusShow.com</a></p> ]]>
@@ -53,6 +57,9 @@
         <description>
             Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.
         </description>
+        <itunes:summary>
+            Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.
+        </itunes:summary>
         <link>https://thebonusshow.com/ep/002</link>
         <content:encoded>
             <![CDATA[ <p>Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.</p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">TheBonusShow.com</a></p> ]]>
@@ -75,6 +82,9 @@
         <description>
             Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
         </description>
+        <itunes:summary>
+            Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
+        </itunes:summary>
         <link>https://thebonusshow.com/ep/001</link>
         <content:encoded>
             <![CDATA[ <p>Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.</p> <p><strong>Show Notes:</strong></p> <p><a href="https://apps.apple.com/us/app/activity-stats/id1511179040" rel="nofollow">Activity Stats on the App Store</a></p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">TheBonusShow.com</a></p> ]]>
