@@ -13,16 +13,16 @@
             <itunes:name>Luke Lechel</itunes:name>
             <itunes:email>thebonusshow@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image
-            href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg"
-        />
+        <itunes:image href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg" />
         <itunes:category text="Technology"></itunes:category>
         <itunes:category text="Health &amp; Fitness">
             <itunes:category text="Fitness" />
         </itunes:category>
         <itunes:explicit>false</itunes:explicit>
 
-    <!-- 👉 New episode goes here -->
+    
+
+
 
     <item>
         <itunes:episodeType>full</itunes:episodeType>
@@ -40,9 +40,9 @@
             type="audio/mpeg" 
             url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-003.mp3"
         />
-        <guid isPermaLink="false">c0d79a0d-30a4-4b9c-98c5-0a1201b32075</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
-        <pubDate>Sun, 18 Oct 2020 21:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
-        <itunes:duration>44:52</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+        <guid isPermaLink="false">c0d79a0d-30a4-4b9c-98c5-0a1201b32075</guid>
+        <pubDate>Sun, 18 Oct 2020 21:00:00 -0400</pubDate>
+        <itunes:duration>44:52</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -62,9 +62,9 @@
             type="audio/mpeg" 
             url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-002.mp3"
         />
-        <guid isPermaLink="false">184de35a-b04c-4cf2-8726-0b99ed5ccf42</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
-        <pubDate>Mon, 07 Sep 2020 08:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
-        <itunes:duration>16:20</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+        <guid isPermaLink="false">184de35a-b04c-4cf2-8726-0b99ed5ccf42</guid>
+        <pubDate>Mon, 07 Sep 2020 08:00:00 -0400</pubDate>
+        <itunes:duration>16:20</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -84,9 +84,9 @@
             type="audio/mpeg" 
             url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-001.mp3"
         />
-        <guid isPermaLink="false">4b1561f0-01c3-4f9c-bb66-f2647db78aa5</guid> <!-- In the future, this will follow the format: <guid>aae20190606</guid> It is a unique ID for each episode, so it should not change. -->
-        <pubDate>Thu, 18 Jun 2020 17:00:00 -0400</pubDate> <!-- How do I calculate this in future episodes? -->
-        <itunes:duration>28:11</itunes:duration> <!-- Mins:Secs although total number of seconds is a generally accepted standard. -->
+        <guid isPermaLink="false">4b1561f0-01c3-4f9c-bb66-f2647db78aa5</guid>
+        <pubDate>Thu, 18 Jun 2020 17:00:00 -0400</pubDate>
+        <itunes:duration>28:11</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
