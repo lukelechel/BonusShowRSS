@@ -14,7 +14,7 @@
             <itunes:name>Luke Lechel</itunes:name>
             <itunes:email>thebonusshow@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://thebonusshow-podcast.s3.us-east-2.amazonaws.com/cover-art.jpg" />
+        <itunes:image href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/thebonusshow-cover-full.jpg" />
         <itunes:category text="Technology"></itunes:category>
         <itunes:category text="Health &amp; Fitness">
             <itunes:category text="Fitness" />
@@ -42,7 +42,7 @@
         <enclosure
             length="22047883" 
             type="audio/mpeg" 
-            url="https://thebonusshow-podcast.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-003.mp3"
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-003.mp3"
         />
         <guid isPermaLink="false">c0d79a0d-30a4-4b9c-98c5-0a1201b32075</guid>
         <pubDate>Sun, 18 Oct 2020 21:00:00 -0400</pubDate>
@@ -67,7 +67,7 @@
         <enclosure
             length="8343669" 
             type="audio/mpeg" 
-            url="https://thebonusshow-podcast.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-002.mp3"
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-002.mp3"
         />
         <guid isPermaLink="false">184de35a-b04c-4cf2-8726-0b99ed5ccf42</guid>
         <pubDate>Mon, 07 Sep 2020 08:00:00 -0400</pubDate>
@@ -92,7 +92,7 @@
         <enclosure
             length="14017021" 
             type="audio/mpeg" 
-            url="https://thebonusshow-podcast.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-001.mp3"
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-001.mp3"
         />
         <guid isPermaLink="false">4b1561f0-01c3-4f9c-bb66-f2647db78aa5</guid>
         <pubDate>Thu, 18 Jun 2020 17:00:00 -0400</pubDate>
