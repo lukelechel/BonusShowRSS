@@ -27,8 +27,58 @@
 
     <item>
         <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>005</itunes:episode>
+        <title>005: 2020 Annual Carve Outs, with Ethan Geerling</title>
+        <description>
+            Ethan Geerling joins the show to talk about 2020... but just the good stuff.
+        </description>
+        <itunes:summary>
+            Ethan Geerling joins the show to talk about 2020... but just the good stuff.
+        </itunes:summary>
+        <link>https://thebonusshow.com/ep/005</link>
+        <content:encoded>
+            <![CDATA[ <p>Ethan Geerling joins the show to talk about 2020... but just the good stuff.</p> <p><strong>Show Notes:</strong></p> <p><a href="https://twitter.com/kristencheeks/status/1258196402443825152?s=21" rel="nofollow">Kristen Bartlett's tweet</a></p> <p><a href="https://www.acquired.fm" rel="nofollow">Acquired podcast</a></p> <p><a href="https://www.apple.com/apple-fitness-plus/" rel="nofollow">Apple Fitness+</a></p> <p><a href="https://www.amazon.com/dp/B074K9HNXD/ref=cm_sw_r_cp_api_glc_fabc_VEG.FbA03FDV1" rel="nofollow">Garmin Vivoactive 3</a></p> <p><a href="https://music.apple.com/us/artist/surfaces/1168766" rel="nofollow">Apple Music - Surfaces</a></p> <p><a href="https://youtu.be/Nke41DYVh6c" rel="nofollow">YouTube - Flor - Live at Home</a></p> <p><a href="https://music.apple.com/us/artist/the-head-and-the-heart/380045979" rel="nofollow">Apple Music - The Head and the Heart</a></p> <p><a href="https://music.apple.com/us/artist/kayden/1327098562" rel="nofollow">Kayden</a></p> <p><a href="https://www.worldchasetag.com" rel="nofollow">World Chase Tag</a></p> <p><a href="https://en.wikipedia.org/wiki/1869_New_Jersey_vs._Rutgers_football_game" rel="nofollow">1869 New Jersey vs. Rutgers football game - Wikipedia</a></p> <p><a href="https://en.wikipedia.org/wiki/Disc_golf" rel="nofollow">Disc Golf - Wikipedia</a></p> <p><a href="https://apps.apple.com/us/app/drafts/id1236254471" rel="nofollow">Drafts 5 on the App Store</a></p> <p><a href="https://music.apple.com/us/album/good-enough/1535825087?i=1535825096" rel="nofollow">Apple Music - Gunnar Gehl - Good Enough</a></p> <p><a href="https://www.mowglii.com/itsycal/" rel="nofollow">Itsycal</a></p> <p><a href="https://optimage.app" rel="nofollow">Optimage</a></p> <p><a href=“https://www.nintendo.com/switch/” rel="nofollow">Nintendo Switch</a></p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">thebonusshow.com</a></p> ]]>
+        </content:encoded>
+        <enclosure
+            length="25747988" 
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-005.mp3"
+        />
+        <guid isPermaLink="false">ij29bs8l-pyvn-ifxh-863n-7xoblubc0m80</guid>
+        <pubDate>Tue, 12 Jan 2021 22:00:00 -0400</pubDate>
+        <itunes:duration>39:07</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>004</itunes:episode>
+        <title>004: Checking To-Dos</title>
+        <description>
+            When productivity entropies, what's next?
+        </description>
+        <itunes:summary>
+            When productivity entropies, what's next?
+        </itunes:summary>
+        <link>https://thebonusshow.com/ep/004</link>
+        <content:encoded>
+            <![CDATA[ <p>When productivity entropies, what's next?</p> <p><strong>Show Notes:</strong></p> <p><a href="https://todoist.com" rel="nofollow">Todoist</a></p> <p><a href="https://www.omnigroup.com/omnifocus/" rel="nofollow">OmniFocus</a></p> <p><a href="https://culturedcode.com/things/" rel="nofollow">Things 3</a></p> <p><a href="https://thebonusshow.com/feedback/" rel="nofollow">The Bonus Show - Feedback</a></p> <p><strong>Follow the show:</strong></p> <p><a href="https://thebonusshow.com" rel="nofollow">thebonusshow.com</a></p> ]]>
+        </content:encoded>
+        <enclosure
+            length="5261024" 
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-004.mp3"
+        />
+        <guid isPermaLink="false">x4jmjmot-bs73-rphn-f440-j3hiodba83ey</guid>
+        <pubDate>Tue, 29 Dec 2020 12:00:00 -0400</pubDate>
+        <itunes:duration>9:59</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+        <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>003</itunes:episode>
-        <title>The Right Bike For the Job, with Rick Schroeder</title>
+        <title>003: The Right Bike For the Job, with Rick Schroeder</title>
         <description>
             Rick Schroeder joins the show to talk bicycle gear and cycling culture.
         </description>
@@ -53,7 +103,7 @@
     <item>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>002</itunes:episode>
-        <title>Board of New Words, with Asia Yisrael and Ciara Pulliam</title>
+        <title>002: Board of New Words, with Asia Yisrael and Ciara Pulliam</title>
         <description>
             Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.
         </description>
@@ -78,7 +128,7 @@
     <item>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>001</itunes:episode>
-        <title>The Future of Fitness, with Misael Contreras</title>
+        <title>001: The Future of Fitness, with Misael Contreras</title>
         <description>
             Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
         </description>
