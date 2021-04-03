@@ -25,6 +25,43 @@
 
 
 
+
+
+
+
+
+    <item>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>007</itunes:episode>
+        <title>007: Words Frozen in Amber, with Asia Yisrael and Ciara Pulliam</title>
+        <description>
+            Asia Yisrael and Ciara Pulliam return to the show – and their bench – to hear my futile cases for new slang words.
+        </description>
+        <itunes:summary>
+            Asia Yisrael and Ciara Pulliam return to the show – and their bench – to hear my futile cases for new slang words.
+        </itunes:summary>
+        <link>https://thebonusshow.com/007</link>
+        <content:encoded>
+            <![CDATA[
+
+            <p>Asia Yisrael and Ciara Pulliam return to the show – and their bench – to hear my futile cases for new slang words.</p>
+            
+            <p><strong>Follow the show:</strong></p>
+            <p><a href="https://thebonusshow.com" rel="nofollow">thebonusshow.com</a></p>
+            
+            ]]>
+        </content:encoded>
+        <enclosure
+            length="7403512"
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-007.mp3"
+        />
+        <guid isPermaLink="false">8b01abb5-6aed-413e-bc04-0ec7fafe02d0</guid>
+        <pubDate>Fri, 2 Apr 2021 21:00:00 -0400</pubDate>
+        <itunes:duration>14:27</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>006</itunes:episode>
@@ -35,7 +72,7 @@
         <itunes:summary>
             Rick Schroeder returns to the show to hear me out about a fitness goal for February 2021.
         </itunes:summary>
-        <link>https://thebonusshow.com/ep/006</link>
+        <link>https://thebonusshow.com/006</link>
         <content:encoded>
             <![CDATA[
 
@@ -70,7 +107,7 @@
         <itunes:summary>
             Ethan Geerling joins the show to talk about 2020... but just the good stuff.
         </itunes:summary>
-        <link>https://thebonusshow.com/ep/005</link>
+        <link>https://thebonusshow.com/005</link>
         <content:encoded>
             <![CDATA[
             
@@ -119,7 +156,7 @@
         <itunes:summary>
             When productivity entropies, what's next?
         </itunes:summary>
-        <link>https://thebonusshow.com/ep/004</link>
+        <link>https://thebonusshow.com/004</link>
         <content:encoded>
             <![CDATA[
             
@@ -157,7 +194,7 @@
         <itunes:summary>
             Rick Schroeder joins the show to talk bicycle gear and cycling culture.
         </itunes:summary>
-        <link>https://thebonusshow.com/ep/003</link>
+        <link>https://thebonusshow.com/003</link>
         <content:encoded>
             <![CDATA[
             
@@ -201,7 +238,7 @@
         <itunes:summary>
             Asia Yisrael and Ciara Pulliam join forces to decide on the value – or lack thereof – of new slang words.
         </itunes:summary>
-        <link>https://thebonusshow.com/ep/002</link>
+        <link>https://thebonusshow.com/002</link>
         <content:encoded>
             <![CDATA[
             
@@ -233,7 +270,7 @@
         <itunes:summary>
             Misael Contreras joins the inaugural episode of The Bonus Show to discuss exercise tips and tools in a world without gyms.
         </itunes:summary>
-        <link>https://thebonusshow.com/ep/001</link>
+        <link>https://thebonusshow.com/001</link>
         <content:encoded>
             <![CDATA[
             
