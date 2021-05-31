@@ -57,13 +57,13 @@
             ]]>
         </content:encoded>
         <enclosure
-            length="17673545"
+            length="10204902"
             type="audio/mpeg" 
             url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-009.mp3"
         />
-        <guid isPermaLink="false">0f8ba2b7-68af-47af-adb0-fd8703eed747</guid>
-        <pubDate>Fri, 2 Apr 2021 21:00:00 -0400</pubDate>
-        <itunes:duration>51:47</itunes:duration>
+        <guid isPermaLink="false">2dfb880d-fc54-441d-ae3f-8c1b94b3a946</guid>
+        <pubDate>Mon, 31 May 2021 00:00:00 -0400</pubDate>
+        <itunes:duration>27:11</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -98,7 +98,7 @@
             url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-008.mp3"
         />
         <guid isPermaLink="false">0f8ba2b7-68af-47af-adb0-fd8703eed747</guid>
-        <pubDate>Fri, 2 Apr 2021 21:00:00 -0400</pubDate>
+        <pubDate>Sat, 29 May 2021 21:00:00 -0400</pubDate>
         <itunes:duration>51:47</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
