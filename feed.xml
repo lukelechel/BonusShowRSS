@@ -30,6 +30,43 @@
 
 
 
+
+    <item>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:episode>009</itunes:episode>
+        <title>009: WWDC Draft 2021</title>
+        <description>
+            Brenden Kilmer joins the show to play a game predicting what's going to happen at Apple's WWDC event on 7 June 2021.
+        </description>
+        <itunes:summary>
+            Brenden Kilmer joins the show to play a game predicting what's going to happen at Apple's WWDC event on 7 June 2021.
+        </itunes:summary>
+        <link>https://thebonusshow.com/009</link>
+        <content:encoded>
+            <![CDATA[
+
+            <p>Brenden Kilmer joins the show to play a game predicting what's going to happen at Apple's WWDC event on 7 June 2021.</p>
+
+            <p><strong>Show Notes:</strong></p>
+            <p><a href="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/show-note-resources/009/The%20Bonus%20Show%20-%20WWDC21%20Draft%20Scoreboard.numbers" rel="nofollow">WWDC Draft Scoreboard (.numbers spreadsheet)</a></p>
+            <p><a href="https://www.relay.fm/upgrade" rel="nofollow">Upgrade Podcast on Relay FM</a></p>
+            
+            <p><strong>Follow the show:</strong></p>
+            <p><a href="https://thebonusshow.com" rel="nofollow">thebonusshow.com</a></p>
+            
+            ]]>
+        </content:encoded>
+        <enclosure
+            length="17673545"
+            type="audio/mpeg" 
+            url="https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-009.mp3"
+        />
+        <guid isPermaLink="false">0f8ba2b7-68af-47af-adb0-fd8703eed747</guid>
+        <pubDate>Fri, 2 Apr 2021 21:00:00 -0400</pubDate>
+        <itunes:duration>51:47</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>008</itunes:episode>
